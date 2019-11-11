@@ -1,7 +1,9 @@
-// Copyright 2018 Your Name <your_email>
+// Copyright 2018 Roman Vasyutin romanvas3008@gmail.com
 
 #include <gtest/gtest.h>
 
-TEST(Example, EmptyTest) {
-    EXPECT_TRUE(true);
+#include <Consumer.hpp>
+
+TEST(Krauler, Test1) {
+    SUCCEED();
 }
