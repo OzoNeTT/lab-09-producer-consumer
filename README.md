@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.com/OzoNeTT/lab-09-producer-consumer.svg?branch=master)](https://travis-ci.com/OzoNeTT/lab-09-producer-consumer)
+![GitHub Repo size](https://img.shields.io/github/repo-size/OzoNeTT/lab-06-multithreads.svg)
+![Some badge](https://img.shields.io/badge/OzoNe-T__T-blue.svg)
+![forthebadge](https://forthebadge.com/images/badges/not-an-issue.svg)
+
 # Лабораторная работа №9
 
 ## Задание
